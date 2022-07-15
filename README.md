@@ -1,4 +1,4 @@
-Curso Explorer - Rocketseat - Stage 3
+# Curso Explorer - Rocketseat - Stage 3
 
 ## Projeto desenvolvido para praticar a criação de formulários com HTML e CSS.
 
