@@ -1,4 +1,4 @@
-# Explorer_stage3_Desafio1
+Curso Explorer - Rocketseat - Stage 3
 
 ## Projeto desenvolvido para praticar a criação de formulários com HTML e CSS.
 
@@ -17,5 +17,4 @@
   - utilização de classes
   - utilização de ids
   - utilização de box model
-
 
