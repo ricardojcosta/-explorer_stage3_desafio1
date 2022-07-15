@@ -1,8 +1,8 @@
 # Explorer_stage3_Desafio1
 
-##Projeto desenvolvido para praticar a criação de formulários com HTML e CSS.
+## Projeto desenvolvido para praticar a criação de formulários com HTML e CSS.
 
-##Tags HTML Utilizadas
+## Tags HTML Utilizadas
   - div
   - link
   - form
