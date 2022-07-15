@@ -2,4 +2,4 @@
 
 Projeto desenvolvido para praticar a criação de formulários com HTML e CSS.
 
-Foram utilizadas tags fieldset e legend para agrupamento dentro do formulário.
+Foram utilizadas tags *fieldset* e *legend* para agrupamento dentro do formulário.
