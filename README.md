@@ -1,5 +1,21 @@
-# Explorer_stage3_desafio1
+# Explorer_stage3_Desafio1
 
-Projeto desenvolvido para praticar a criação de formulários com HTML e CSS.
+##Projeto desenvolvido para praticar a criação de formulários com HTML e CSS.
 
-Foram utilizadas tags *fieldset* e *legend* para agrupamento dentro do formulário.
+##Tags HTML Utilizadas
+  - div
+  - link
+  - form
+  - fieldset
+  - legend
+  - input
+  - footer
+  - header
+
+## CSS 
+  - utilização de pseudo class
+  - utilização de classes
+  - utilização de ids
+  - utilização de box model
+
+
